@@ -1,6 +1,6 @@
 👋 Olá, Seja Bem-Vindo ao Meu Perfil 
 
-- 🌱 Estudando: C#
+- 🌱 Estudando: JavaScript, React
 - 📫 Contato Twitter Deluxyfps
 - 😄 Pronome: Ele, dele
 
