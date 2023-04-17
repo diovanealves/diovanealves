@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center" style="font-size:28px">Oie Devs 👋</h1>
 
-<!--
-**diovanealves/diovanealves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="300px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
 
-Here are some ideas to get you started:
+<h2 align="left" style="margin-top:40px">Sobre mim</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções web.
+- 🎓 &nbsp; Estudando Analise e Desenvolvimento de Sistemas no <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
+- 🌱 &nbsp; Aprendendo mais sobre <strong>React, NextJS, Nodejs, Prisma</strong>.
+- 💼 &nbsp; Ferramentas que utilizo <strong>Vscode, Npm, Insomnia, Git, Figma </strong>.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alvdiovane/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://diovanealves.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/-WEB-041A27?style=for-the-badge&logo=Hugo&logoColor=white"/></a>
+  <a href="https://twitter.com/deluxyfps" alt="Twitter">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.twitch.tv/deluxyfps" alt="Twitter">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+</p>
